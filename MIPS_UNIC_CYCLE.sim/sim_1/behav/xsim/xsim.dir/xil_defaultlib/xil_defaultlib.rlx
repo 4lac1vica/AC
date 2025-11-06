@@ -1,0 +1,18 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/todit/Downloads/MPG.vhd,1740992483,vhdl,,,,mpg,,,,,,,,
+D:/AC/Decoder/Decoder.srcs/sources_1/new/BranchUnit.vhd,1745428589,vhdl,,,,branchunit,,,,,,,,
+D:/AC/Decoder/Decoder.srcs/sources_1/new/Decoder.vhd,1744384133,vhdl,,,,decoder,,,,,,,,
+D:/AC/Decoder/Decoder.srcs/sources_1/new/EX.vhd,1745426194,vhdl,,,,ex,,,,,,,,
+D:/AC/Decoder/Decoder.srcs/sources_1/new/JUnit.vhd,1745428596,vhdl,,,,junit,,,,,,,,
+D:/AC/Decoder/Decoder.srcs/sources_1/new/MEM.vhd,1745769597,vhdl,,,,mem,,,,,,,,
+D:/AC/Decoder/Decoder.srcs/sources_1/new/UC.vhd,1745420602,vhdl,,,,uc,,,,,,,,
+D:/AC/Decoder/Decoder.srcs/sources_1/new/WriteBack.vhd,1745427582,vhdl,,,,writeback,,,,,,,,
+D:/AC/FINAL/FINAL.srcs/sources_1/new/IFetch.vhd,1745769292,vhdl,,,,ifetch,,,,,,,,
+D:/AC/FINAL/FINAL.srcs/sources_1/new/SSD1.vhd,1740992130,vhdl,,,,ssd1,,,,,,,,
+D:/AC/MIPS_UNIC_CYCLE/MIPS_UNIC_CYCLE.srcs/sim_1/new/test_new.vhd,1745675229,vhdl,,,,tb_test_env,,,,,,,,
+D:/AC/MIPS_UNIC_CYCLE/MIPS_UNIC_CYCLE.srcs/sim_1/new/testbranch.vhd,1745676891,vhdl,,,,testbranch,,,,,,,,
+D:/AC/MIPS_UNIC_CYCLE/MIPS_UNIC_CYCLE.srcs/sim_1/new/testnew.vhd,1745770374,vhdl,,,,testnew,,,,,,,,
+D:/AC/MIPS_UNIC_CYCLE/MIPS_UNIC_CYCLE.srcs/sources_1/new/test_env.vhd,1745770220,vhdl,,,,test_env,,,,,,,,

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="testnew_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="testnew" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0 ps"></ZoomStartTime>
+      <ZoomEndTime time="13 ps"></ZoomEndTime>
+      <Cursor1Time time="423,747 ps"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="173"></NameColumnWidth>
+      <ValueColumnWidth column_width="90"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="/testnew/sw" type="array">
+      <obj_property name="ElementShortName">sw[2:0]</obj_property>
+      <obj_property name="ObjectShortName">sw[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testnew/bt1" type="logic">
+      <obj_property name="ElementShortName">bt1</obj_property>
+      <obj_property name="ObjectShortName">bt1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testnew/bt0" type="logic">
+      <obj_property name="ElementShortName">bt0</obj_property>
+      <obj_property name="ObjectShortName">bt0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testnew/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testnew/cat" type="array">
+      <obj_property name="ElementShortName">cat[6:0]</obj_property>
+      <obj_property name="ObjectShortName">cat[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testnew/an" type="array">
+      <obj_property name="ElementShortName">an[7:0]</obj_property>
+      <obj_property name="ObjectShortName">an[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testnew/led" type="array">
+      <obj_property name="ElementShortName">led[10:0]</obj_property>
+      <obj_property name="ObjectShortName">led[10:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testnew/uut/digits" type="array">
+      <obj_property name="ElementShortName">digits[31:0]</obj_property>
+      <obj_property name="ObjectShortName">digits[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testnew/uut/instr" type="array">
+      <obj_property name="ElementShortName">instr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">instr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testnew/uut/PC4" type="array">
+      <obj_property name="ElementShortName">PC4[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PC4[31:0]</obj_property>
+   </wvobject>
+</wave_config>
